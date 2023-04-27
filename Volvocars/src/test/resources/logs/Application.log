@@ -1,0 +1,24 @@
+27/04/2023 20:18:17 devpinoyLogger browser name is chrome
+27/04/2023 20:18:20 devpinoyLogger browser launch succesfull
+27/04/2023 20:18:30 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='ACCEPT']] ) is displayed
+27/04/2023 20:18:30 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='OUR CARS']] ) is displayed
+27/04/2023 20:18:32 devpinoyLogger your element:( xpath: //p[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='ELECTRIC']] ) is displayed
+27/04/2023 20:18:32 devpinoyLogger your element:( xpath: //p[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='HYBRIDS']] ) is displayed
+27/04/2023 20:18:32 devpinoyLogger your element:( xpath: //p[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='MILD HYBRIDS']] ) is displayed
+27/04/2023 20:18:32 devpinoyLogger your element:( xpath: //button[@aria-label ='Close']] ) is displayed
+27/04/2023 20:18:33 devpinoyLogger close all open window
+27/04/2023 20:18:33 devpinoyLogger browser name is chrome
+27/04/2023 20:18:34 devpinoyLogger browser launch succesfull
+27/04/2023 20:18:45 devpinoyLogger Volvo Cars - International is equal to  Volvo Cars - International
+27/04/2023 20:18:45 devpinoyLogger close all open window
+27/04/2023 20:18:45 devpinoyLogger browser name is chrome
+27/04/2023 20:18:47 devpinoyLogger browser launch succesfull
+27/04/2023 20:18:53 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='ACCEPT']] ) is displayed
+27/04/2023 20:18:53 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='MENU']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='BUY']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='OWN']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='ABOUT VOLVO']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='EXPLORE']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[translate(normalize-space(.),'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')='MORE']] ) is displayed
+27/04/2023 20:18:54 devpinoyLogger your element:( xpath: //button[@aria-label ='Close']] ) is displayed
+27/04/2023 20:18:56 devpinoyLogger close all open window

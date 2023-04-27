@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T20:18:17 IST" name="Default suite" finished-at="2023-04-27T20:18:56 IST" duration-ms="38868">
+    <groups>
+      <group name="smoke">
+        <method signature="VolvoCarsTestCases.validateCarsHeaderDisplayAfterClickOnOurCar()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" name="validateCarsHeaderDisplayAfterClickOnOurCar" class="com.Volvocars.qa.TestCases.VolvoCarsTestCases"/>
+        <method signature="VolvoCarsTestCases.validatePageTitle()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" name="validatePageTitle" class="com.Volvocars.qa.TestCases.VolvoCarsTestCases"/>
+        <method signature="VolvoCarsTestCases.validateSubMenuOptionIsVisibleInMenu()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" name="validateSubMenuOptionIsVisibleInMenu" class="com.Volvocars.qa.TestCases.VolvoCarsTestCases"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-04-27T20:18:17 IST" name="Default test" finished-at="2023-04-27T20:18:56 IST" duration-ms="38868">
+      <class name="com.Volvocars.qa.TestCases.VolvoCarsTestCases">
+        <test-method is-config="true" signature="beforSuite()[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:16 IST" name="beforSuite" finished-at="2023-04-27T20:18:17 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforSuite -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:17 IST" name="setUp" finished-at="2023-04-27T20:18:29 IST" duration-ms="12718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Volvocars.qa.TestCases.VolvoCarsTestCases.validateCarsHeaderDisplayAfterClickOnOurCar()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCarsHeaderDisplayAfterClickOnOurCar()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:29 IST" name="validateCarsHeaderDisplayAfterClickOnOurCar" finished-at="2023-04-27T20:18:33 IST" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCarsHeaderDisplayAfterClickOnOurCar -->
+        <test-method is-config="true" signature="failSnapShot(org.testng.ITestResult)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:33 IST" name="failSnapShot" finished-at="2023-04-27T20:18:33 IST" duration-ms="298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateCarsHeaderDisplayAfterClickOnOurCar status=SUCCESS method=VolvoCarsTestCases.validateCarsHeaderDisplayAfterClickOnOurCar()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failSnapShot -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:33 IST" name="setUp" finished-at="2023-04-27T20:18:45 IST" duration-ms="11988" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Volvocars.qa.TestCases.VolvoCarsTestCases.validatePageTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageTitle()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:45 IST" name="validatePageTitle" finished-at="2023-04-27T20:18:45 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="failSnapShot(org.testng.ITestResult)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:45 IST" name="failSnapShot" finished-at="2023-04-27T20:18:45 IST" duration-ms="310" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePageTitle status=SUCCESS method=VolvoCarsTestCases.validatePageTitle()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failSnapShot -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:45 IST" name="setUp" finished-at="2023-04-27T20:18:53 IST" duration-ms="7400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Volvocars.qa.TestCases.VolvoCarsTestCases.validateSubMenuOptionIsVisibleInMenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSubMenuOptionIsVisibleInMenu()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:53 IST" name="validateSubMenuOptionIsVisibleInMenu" finished-at="2023-04-27T20:18:55 IST" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubMenuOptionIsVisibleInMenu -->
+        <test-method is-config="true" signature="failSnapShot(org.testng.ITestResult)[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:55 IST" name="failSnapShot" finished-at="2023-04-27T20:18:56 IST" duration-ms="259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSubMenuOptionIsVisibleInMenu status=SUCCESS method=VolvoCarsTestCases.validateSubMenuOptionIsVisibleInMenu()[pri:1, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failSnapShot -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.Volvocars.qa.TestCases.VolvoCarsTestCases@5e3f861]" started-at="2023-04-27T20:18:56 IST" name="afterSuite" finished-at="2023-04-27T20:18:56 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Volvocars.qa.TestCases.VolvoCarsTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
